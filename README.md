@@ -11,5 +11,7 @@ The fundamentals of AlexejSystem are the following:
 
 - Crypto Money
 
+- Open, decentralized and free Mesh-Net for communication
+
 These fundamentals will be explained further in the documents.
 You are welcome to participate.
