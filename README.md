@@ -14,4 +14,4 @@ The fundamentals of AlexejSystem are the following:
 - Open, decentralized and free Mesh-Net for communication
 
 These fundamentals will be explained further in the documents.
-You are welcome to participate.
+You are welcome to participate or fork your own version!
