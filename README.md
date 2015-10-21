@@ -1,17 +1,14 @@
 # AlexejSystem
 Welcome.
 
-I don't like the system that currently rules the world. So I make a new, better one.
+This is an open-source project to create and shape the idea of a society, that declares humanism as it's highest goal.
 
-The fundamentals of AlexejSystem are the following:
+There are three key pillars, that define a society:
 
-- Open Source Law
+- Law
 
-- Direct democracy
+- Communication
 
-- Crypto Money
+- Trade
 
-- Open, decentralized and free Mesh-Net for communication
-
-These fundamentals will be explained further in the documents.
-You are welcome to participate.
+The smartest ideas around the world shall be gathered in this project to give an answer to each of these three fields.
